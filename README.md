@@ -1,5 +1,5 @@
 # Zybo-Z7-10-Roadtest
-This repository contains the artifacts created for the face recognition project mentioned in the Element14 Roadtest (you ca read the review at https://www.element14.com/community/roadTestReviews/3060/l/digilent-zybo-z7-pcam-5c-review)
+This repository contains the artifacts created for the face recognition project mentioned in the Element14 Roadtest (you can read the review at https://www.element14.com/community/roadTestReviews/3060/l/digilent-zybo-z7-pcam-5c-review)
 
 The folder tensorflow_1.14.1 contains the wheels package for Tensorflow 1.14.1, built natively on the Zybo Z7-10, targeting Python v2.7.
 
